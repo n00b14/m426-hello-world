@@ -1,3 +1,7 @@
 Hello World
 another line
+<<<<<<< HEAD
 this is a bugfix
+=======
+featureA
+>>>>>>> 929e9b97a13bcb175234d177e51737207db730c1
